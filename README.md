@@ -1,3 +1,5 @@
+PRODIGY_FS_03
+
 # 🛒 Local Store – E-commerce Platform  
 
 Welcome to **Local Store** – a clean, simple, and user-friendly local e-commerce web app where shopping meets convenience! Built as part of my internship with **Prodigy InfoTech**, this platform makes it super easy to browse products, manage your cart, checkout with a smile, and track orders in real time.  
@@ -27,7 +29,3 @@ Welcome to **Local Store** – a clean, simple, and user-friendly local e-commer
 
 
 
-### **🔗 LinkedIn**
-  [saurabh kumar](www.linkedin.com/in/saurabh-kumar-9999s)   
-# **🔒 License**
-[MIT](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/LICENSE)
